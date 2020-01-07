@@ -1,5 +1,5 @@
 # Cpp_Examples
-Some C++ examples to get familiar with OOP and STL
+Some C++ examples to get familiar with OOP and STL (Original Course Cpp By exapmles from Packt).
 
 ## Vectors.cc
 An illustration to the vector container and how it might be used.
