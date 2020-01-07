@@ -10,7 +10,7 @@ An implementation to different useful data containers in cpp.
 ## Algorithms.cc
 How to use some powerfull algorithms provided with in the Cpp standard library with data containers, accumulate(), find(), fill(), copy(), reduce() are provided here.
 
-## virtulad.cc 
+## virtuald.cc 
 a basic implementation of a dice using "random"
 
 ## guessing_game.cc
